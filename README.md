@@ -1,2 +1,1 @@
-# Squiddu.github.io
- Test website
+TestWebsite
