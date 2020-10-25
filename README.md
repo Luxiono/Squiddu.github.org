@@ -1,2 +1,2 @@
-# Squiddu.github.org
+# Squiddu.github.io
  Test website
