@@ -1,3 +1,3 @@
 TestWebsite
 
-squiddu.github.io/TestWebsite
+https://squiddu.github.io/TestWebsite
